@@ -1,0 +1,110 @@
+{
+    "SUCCESSCD": {
+        "code": "1000",
+        "message": "Success"
+    },
+    "PHONENOERRORCD": {
+        "errorCode": "1001",
+        "errorMessage": "Mobile Number is mandatory"
+    },
+    "VINNOERRORCD": {
+        "errorCode": "1002",
+        "errorMessage": "VIN# or REG# is mandatory"
+    },
+    "USERIDERRORCD": {
+        "errorCode": "1003",
+        "errorMessage": "UserId is mandatory"
+    },
+    "TOKENERRORCD": {
+        "errorCode": "1004",
+        "errorMessage": "Token is mandatory"
+    },
+    "OTPERRORCD": {
+        "errorCode": "1005",
+        "errorMessage": "OTP is mandatory"
+    },
+    "PPHONENOERRORCD": {
+        "errorCode": "1006",
+        "errorMessage": "Primary Phone no is mandatory"
+    },
+    "SPHONENOERRORCD": {
+        "errorCode": "1007",
+        "errorMessage": "Secondary Phone no is mandatory"
+    },
+    "RTOKENERRORCD": {
+        "errorCode": "1008",
+        "errorMessage": "Refresh Token is mandatory"
+    },
+    "KEYERRORCD": {
+        "errorCode": "1009",
+        "errorMessage": "Key is mandatory"
+    },
+    "INTERNALERRCD": {
+        "errorCode": "1010",
+        "errorMessage": "Internal Error"
+    },
+    "MMATCHWITHVINERRORCD": {
+        "errorCode": "2001",
+        "errorMessage": "Mobile Number doesn't match with your VIN# or REG#"
+    },
+    "INOTPERRORCD": {
+        "errorCode": "2002",
+        "errorMessage": "Incorrect OTP"
+    },
+    "TOKENEXPIREDERRORCD": {
+        "errorCode": "2003",
+        "errorMessage": "Token Expired"
+    },
+    "INVALIDTOKENERRORCD": {
+        "errorCode": "2004",
+        "errorMessage": "Invalid Token"
+    },
+    "PPHONENOTFOUNDERRORCD": {
+        "errorCode": "2005",
+        "errorMessage": "Primary Phone Number not found"
+    },
+    "SECONDARYUSERMAPPINGERRORCD": {
+        "errorCode": "2006",
+        "errorMessage": "Secondary user already mapped with the same VIN#"
+    },
+    "ADDMAXCHILDUSERERRORCD": {
+        "errorCode": "2007",
+        "errorMessage": "You have added maximum Secondary users(4) for this VIN#"
+    },
+    "VINPHONEMAPPINGERRORCD": {
+        "errorCode": "2008",
+        "errorMessage": "This VIN# is not associated with this phone number."
+    },
+    "PRIMAYDETAILSERRORCD": {
+        "errorCode": "2009",
+        "errorMessage": "Unable to Update the Primary User details"
+    },
+    "INVALIDRTOKENERRORCD": {
+        "errorCode": "2010",
+        "errorMessage": "Invalid Refresh Token"
+    },
+    "VALIDPRIMARYUSERERRORCD": {
+        "errorCode": "2011",
+        "errorMessage": "Not a Valid Primary User"
+    },
+    "DBEXCEPTIONERRORCD": {
+        "errorCode": "2012",
+        "errorMessage": "Unable to Update the Primary User details"
+    },
+    "VALIDUSERERRORCD": {
+        "errorCode": "2013",
+        "errorMessage": "User does not exist"
+    },
+    "RLICENSESERRORCD": {
+        "errorCode": "2014",
+        "errorMessage": "Remaining Licenses should be greater than or equal to 0"
+    },
+    "INPUTERROR": {
+        "errorCode": "2015",
+        "errorMessage": "Please enter the valid input details"
+    },
+    "INVALIDHEADRETOKENERR": {
+        "errorCode": "2016",
+        "errorMessage": "Invalid header token"
+    }
+}

@@ -1,0 +1,198 @@
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"error","message":"Unable to connect to the database: connect ECONNREFUSED 127.0.0.1:3306","name":"SequelizeConnectionRefusedError","original":{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-4078,"fatal":true,"port":3306,"syscall":"connect"},"parent":{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-4078,"fatal":true,"port":3306,"syscall":"connect"},"stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306\n    at ConnectionManager.connect (D:\\nodesource\\natsa_telematics_service\\node_modules\\sequelize\\lib\\dialects\\mysql\\connection-manager.js:92:17)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async ConnectionManager._connect (D:\\nodesource\\natsa_telematics_service\\node_modules\\sequelize\\lib\\dialects\\abstract\\connection-manager.js:220:24)\n    at async D:\\nodesource\\natsa_telematics_service\\node_modules\\sequelize\\lib\\dialects\\abstract\\connection-manager.js:174:32\n    at async ConnectionManager.getConnection (D:\\nodesource\\natsa_telematics_service\\node_modules\\sequelize\\lib\\dialects\\abstract\\connection-manager.js:197:7)\n    at async D:\\nodesource\\natsa_telematics_service\\node_modules\\sequelize\\lib\\sequelize.js:301:26\n    at async Sequelize.authenticate (D:\\nodesource\\natsa_telematics_service\\node_modules\\sequelize\\lib\\sequelize.js:453:5)"}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
+{"level":"info","message":"WATCHING LOGS"}
+{"level":"info","message":"Connection has been established successfully."}
